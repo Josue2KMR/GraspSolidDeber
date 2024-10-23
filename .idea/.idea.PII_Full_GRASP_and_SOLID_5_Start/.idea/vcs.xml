@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Desafio_equipo/Menu-POO" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Juego-Conways-game-of-Life" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../PipesFilters" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../ProyectoChatBot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../RepoEjercicios" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../RepoValorDeVerdad" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Repositorios/Desafio_1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Repositorios/PII_P1_a_P2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Repositorios/PII_Python" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Roleplay3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../RoleplayEquipo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../TestDateFormat" vcs="Git" />
+  </component>
+</project>

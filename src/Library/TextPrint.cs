@@ -9,7 +9,7 @@ using System.Collections.Generic;
 
 namespace Full_GRASP_And_SOLID
 {
-    public class Recipe : IRecipe
+    public class TextPrint : ITextPrint
     {
         // Cambiado por OCP
         private IList<BaseStep> steps = new List<BaseStep>();
